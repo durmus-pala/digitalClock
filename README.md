@@ -1,1 +1,1 @@
-# digitalClock
+# digitalClock Here is digital clock project which is created for Js exercise
